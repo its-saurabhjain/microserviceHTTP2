@@ -25,3 +25,4 @@ https://stackoverflow.com/questions/33887194/how-to-set-multiple-commands-in-one
 docker image-frontendsvc:ocp43 is for only trust store
 docker image-frontendsvc:ocp43 for keystore and trust store
 
+**** Important - OCP route TLS re-encrypt whill alwyas http/1.1, change to passthrough and it will be h2 
