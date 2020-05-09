@@ -1,0 +1,6 @@
+com\example\microservice\currencybackendservice\CurrencyBackEndApplication.class
+com\example\microservice\currencybackendservice\BackendDataRepository.class
+com\example\microservice\currencybackendservice\BackendDataService.class
+com\example\microservice\currencybackendservice\RemoteServiceNotAvailableException.class
+com\example\microservice\currencybackendservice\CurrencyBackEndApplication$1.class
+com\example\microservice\currencybackendservice\CurrencyBackEndController.class

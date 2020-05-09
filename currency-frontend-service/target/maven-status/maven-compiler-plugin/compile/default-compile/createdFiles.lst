@@ -1,0 +1,5 @@
+com\example\microservice\currencyfrontendservice\RestTemplateConfig.class
+com\example\microservice\currencyfrontendservice\HttpClientConfig.class
+com\example\microservice\currencyfrontendservice\CurrencyFrontEndController.class
+com\example\microservice\currencyfrontendservice\HttpClientConfig$1.class
+com\example\microservice\currencyfrontendservice\CurrencyFrontEndApplication.class

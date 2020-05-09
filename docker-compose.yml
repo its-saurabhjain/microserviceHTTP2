@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  currency-frontend-service:
+    ports:
+      - "6443:6443"
+    image: "itsaurabh/currency-frontend-service"
+  currency-backend-service:
+    ports:
+      - "8443:8443"
+    image: "itsaurabh/currency-backend-service"
